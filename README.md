@@ -1,7 +1,7 @@
-[![MasterHead](https://images.app.goo.gl/dFDpe8a5YBm2qShi6)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*IRGB-4OAoO8KSqH_huDPFw.gif)
 <h1 align="center">Welcome to Ashwini Jangetol’s Profile! 👋</h1>
 <h3 align="center">Passionate software developer with over a decade of experience crafting elegant code and solving complex problems</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" />
+<img align="right" width="400" alt=“coding” src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8480c897963509.5ed13a135d082.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwini3107&label=Profile%20views&color=0e75b6&style=flat" alt="ashwini3107" /> </p>
 

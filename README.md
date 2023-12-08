@@ -1,4 +1,3 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*IRGB-4OAoO8KSqH_huDPFw.gif)
 <h1 align="center">Welcome to Ashwini Jangetol’s Profile! 👋</h1>
 <h3 align="center">Passionate software developer with over a decade of experience crafting elegant code and solving complex problems</h3>
 <img align="right" width="400" alt=“coding” src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8480c897963509.5ed13a135d082.gif" />
